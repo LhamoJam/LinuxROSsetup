@@ -35,7 +35,7 @@ PUBKey 加入後，再來執行 apt update 就不會有此訊息囉~
 ## 安装基础组件
 
 + `sudo apt-get update`
-+ `sudo apt-get install vim ssh curl wget git`
++ `sudo apt-get install neovim openssh curl wget git gcc g++ make cmake python3-dev cython`
 
 ## 终端优化
 
